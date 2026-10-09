@@ -1,0 +1,11 @@
+body {
+    background-image: url('../media/back.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: white;
+}
